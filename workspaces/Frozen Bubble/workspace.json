@@ -2,7 +2,7 @@
   "description": "Frozen Bubble game! Remove all bubbles before they are frozen. Shoot up the bubbles and create groups of three or more of the same.",
   "docker_registry": "https://index.docker.io/v1/",
   "image_src": "frozen-bubble.png",
-  "name": "kuhaleyka/kasmweb-frozen-bubble:latest",
+  "name": "kuhaleyka/kasm-workspace-frozen-bubble:latest",
   "categories": [
     "Games"
   ],
