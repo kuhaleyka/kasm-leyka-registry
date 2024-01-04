@@ -2,15 +2,15 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'KuhaLayka Technologies',
+    description: 'A public place for freshly baked Kasm supported workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    listUrl: 'https://mafiainc.github.io/kasm-leyka-registry/',
+    contactUrl: 'https://armenskipop.com/',
   },
   reactStrictMode: true,
   swcMinify: true,
-  basePath: '/kasm-registry/1.0',
+  basePath: '/kasm-leyka-registry/1.0',
   trailingSlash: true,
   images: {
     unoptimized: true,
