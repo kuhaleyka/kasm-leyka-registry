@@ -1,0 +1,17 @@
+{
+  "description": "PRIVATE image! Heroes of Might and Magic III a turn-based strategy game developed by Jon Van Caneghem through New World Computing originally released for Microsoft Windows by The 3DO Company in 1999.",
+  "docker_registry": "https://index.docker.io/v1/",
+  "image_src": "homm3_hd.png",
+  "name": "kuhaleyka/kasm-workspace-homm3-gog-cpmplete-hd:latest",
+  "categories": [
+    "Games"
+  ],
+  "friendly_name": "Heroes of Might and Magic III HD",
+  "architecture": [
+    "amd64"
+  ],
+  "compatibility": [
+    "1.14.x"
+  ],
+  "uncompressed_size_mb": 3598
+}
